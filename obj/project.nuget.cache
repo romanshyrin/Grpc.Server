@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0kHu0HrpkiYMvVsw1BMb621X/0DxsQwu843uN0Cj1qXls++bYkwMm6WRbov0ZrsPG0ndEvjkoQghmMExdflghQ==",
+  "dgSpecHash": "6ibesDFDxu0Ldp1nKRN5n3FjnZOXH0YfAcRNQjB65rP/oNecuGrZ7onJV1TJEwwWH6SFkJTGW1SGEmMsIfYjtw==",
   "success": true,
   "projectFilePath": "H:\\github\\Academy_Roman.Shyrin\\GrpcStudent\\GrpcServer\\GrpcServer\\GrpcServer.csproj",
   "expectedPackageFiles": [
@@ -8,11 +8,13 @@
     "C:\\Users\\Roman\\.nuget\\packages\\grpc.aspnetcore\\2.47.0\\grpc.aspnetcore.2.47.0.nupkg.sha512",
     "C:\\Users\\Roman\\.nuget\\packages\\grpc.aspnetcore.server\\2.47.0\\grpc.aspnetcore.server.2.47.0.nupkg.sha512",
     "C:\\Users\\Roman\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.47.0\\grpc.aspnetcore.server.clientfactory.2.47.0.nupkg.sha512",
+    "C:\\Users\\Roman\\.nuget\\packages\\grpc.aspnetcore.server.reflection\\2.47.0\\grpc.aspnetcore.server.reflection.2.47.0.nupkg.sha512",
     "C:\\Users\\Roman\\.nuget\\packages\\grpc.core.api\\2.47.0\\grpc.core.api.2.47.0.nupkg.sha512",
     "C:\\Users\\Roman\\.nuget\\packages\\grpc.net.client\\2.47.0\\grpc.net.client.2.47.0.nupkg.sha512",
     "C:\\Users\\Roman\\.nuget\\packages\\grpc.net.clientfactory\\2.47.0\\grpc.net.clientfactory.2.47.0.nupkg.sha512",
     "C:\\Users\\Roman\\.nuget\\packages\\grpc.net.common\\2.47.0\\grpc.net.common.2.47.0.nupkg.sha512",
-    "C:\\Users\\Roman\\.nuget\\packages\\grpc.tools\\2.47.0\\grpc.tools.2.47.0.nupkg.sha512",
+    "C:\\Users\\Roman\\.nuget\\packages\\grpc.reflection\\2.47.0\\grpc.reflection.2.47.0.nupkg.sha512",
+    "C:\\Users\\Roman\\.nuget\\packages\\grpc.tools\\2.48.0-pre1\\grpc.tools.2.48.0-pre1.nupkg.sha512",
     "C:\\Users\\Roman\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Roman\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.6\\microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
     "C:\\Users\\Roman\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.6\\microsoft.entityframeworkcore.abstractions.6.0.6.nupkg.sha512",

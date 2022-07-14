@@ -1,5 +1,3 @@
-
-
 using GrpcServer.Data;
 using GrpcServer.Services;
 using Microsoft.EntityFrameworkCore;

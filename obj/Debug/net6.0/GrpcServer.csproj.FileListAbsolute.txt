@@ -37,3 +37,5 @@ H:\github\Academy_Roman.Shyrin\GrpcStudent\GrpcServer\GrpcServer\bin\Debug\net6.
 H:\github\Academy_Roman.Shyrin\GrpcStudent\GrpcServer\GrpcServer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 H:\github\Academy_Roman.Shyrin\GrpcStudent\GrpcServer\GrpcServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 H:\github\Academy_Roman.Shyrin\GrpcStudent\GrpcServer\GrpcServer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+H:\github\Academy_Roman.Shyrin\GrpcStudent\GrpcServer\GrpcServer\bin\Debug\net6.0\Grpc.AspNetCore.Server.Reflection.dll
+H:\github\Academy_Roman.Shyrin\GrpcStudent\GrpcServer\GrpcServer\bin\Debug\net6.0\Grpc.Reflection.dll
